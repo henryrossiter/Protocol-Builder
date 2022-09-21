@@ -17,7 +17,7 @@
     "jszip": "^3.2.2",
     "prop-types": "^15.7.2",
     "vue": "^2.6.10",
-    "vuetify": "^2.2.15"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.2.3",
